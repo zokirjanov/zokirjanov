@@ -16,6 +16,9 @@ Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>🏢 I'm curr
   <a href="https://www.telegram.me/ShohruxZokirjonov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://www.instagram.com/wr.blog">
+    <img src="https://img.shields.io/badge/Instagram-darkviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramBadge"/>
+  </a>
 </div>
 
 
