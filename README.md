@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>🏢 I'm currently working as frilances<br>⚙️ My specialty : .net, asp.net, wpf, postgresql<br>💻 My programming languages : C#, C, Python<br>⚔️ Technogies and tools : .net, git, docker,, postgre sql, sql server, sqlite<br>🌍 I'm mostly active within the Dotnet Community Uzbekistan<br>🌱 Learning all about Open Source<br>📫 Connect with me: telegram, linkedin,<br>
+Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>🏢 I'm currently working as frilances<br>⚙️ My specialty : .net, asp.net, wpf, postgresql<br>💻 My programming languages : C#, C, Python<br>⚔️ Technogies and tools : .net, git, docker,, postgre sql, sql server, sqlite<br>🌍 I'm mostly active within the Dotnet Community Uzbekistan<br>
 
 
 ## 🌐 Socials:
