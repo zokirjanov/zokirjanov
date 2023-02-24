@@ -10,6 +10,9 @@ Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>🏢 I'm curr
   <a href="https://www.youtube.com/channel/UC2JUex4LmdImea-1M1exZgQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+    <a href="https://www.facebook.com/shohruxbek.zokirjonov">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
   <a href="https://www.telegram.me/ShohruxZokirjonov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
