@@ -20,3 +20,6 @@ Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>⚙️ My spe
     <img src="https://img.shields.io/badge/Instagram-darkviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramBadge"/>
   </a>
 </div>
+
+
+![shohrux's github stats](https://github-readme-stats.vercel.app/api?username=zokirjanov&show_icons=true)
