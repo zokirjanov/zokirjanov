@@ -23,3 +23,8 @@ Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>⚙️ My spe
 
 
 ![shohrux's github stats](https://github-readme-stats.vercel.app/api?username=zokirjanov&show_icons=true)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/zokirjanov/count.svg" />
+</p>
