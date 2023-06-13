@@ -44,3 +44,7 @@ Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>⚙️ My spe
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/zokirjanov/count.svg" />
 </p>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=68c9b766fcc44b25&nd=1))
+</div>
