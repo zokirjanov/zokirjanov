@@ -1,5 +1,5 @@
 
-Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>⚙️ My specialty : .net, asp.net, wpf, Sql<br>💻 My programming languages : C#, C, Python<br>⚔️ Technogies and tools : .net, git, docker,, postgre sql, sql server, sqlite<br>🌍 I'm mostly active within the Dotnet Community Uzbekistan<br>
+Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>
 
 
 ## 🌐 Socials:
