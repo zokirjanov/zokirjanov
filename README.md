@@ -1,5 +1,9 @@
 
-Hi there, I am Shohrux 👋<br><br>I'm a Software Engineer.<br><br>
+Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
+
+<p  align="center">
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Passionate+Back-end+Developer;"  width="100%"  height="35px></a>
+</p>
 
 
 ## 🌐 Socials:
