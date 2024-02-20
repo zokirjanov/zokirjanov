@@ -49,7 +49,7 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([]())
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 </div>
 
 <p align="center"> 
