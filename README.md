@@ -49,7 +49,7 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/imaginedragonsofficial](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=68c9b766fcc44b25&nd=1))
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/imaginedragonsofficial]())
 </div>
 
 <p align="center"> 
