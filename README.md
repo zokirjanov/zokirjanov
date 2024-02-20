@@ -53,6 +53,6 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
 </div>
 
 <p align="center"> 
-  Visitors count<br>
+  Visitors count<br><br>
   <img src="https://profile-counter.glitch.me/zokirjanov/count.svg" />
 </p>
