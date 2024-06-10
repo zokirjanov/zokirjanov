@@ -7,25 +7,6 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
 <br>
 <br>
 
-## 🌐 Socials:
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shohrux-zokirjonov-935b67228/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC2JUex4LmdImea-1M1exZgQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-    <a href="https://www.facebook.com/shohruxbek.zokirjonov">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.telegram.me/ShohruxZokirjonov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.instagram.com/wr.blog">
-    <img src="https://img.shields.io/badge/Instagram-darkviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramBadge"/>
-  </a>
-</div>
-
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zokirjanov&show_icons=true&theme=gotham" alt="zokirjanov" />
@@ -61,9 +42,34 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
  <br>
 
 
+
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]([https://open.spotify.com/user/omnitenebris](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=68c9b766fcc44b25&nd=1))
 </div>
+
+ <div align="center">
+🌐 Socials:
+</div><br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shohrux-zokirjonov-935b67228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC2JUex4LmdImea-1M1exZgQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="https://www.facebook.com/shohruxbek.zokirjonov">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.telegram.me/ShohruxZokirjonov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/wr.blog">
+    <img src="https://img.shields.io/badge/Instagram-darkviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramBadge"/>
+  </a>
+</div>
+
+<br>
 
 <p align="center"> 
   Visitors count<br><br>
