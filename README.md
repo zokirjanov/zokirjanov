@@ -33,15 +33,28 @@ Hi there, I am Shohrux 👋<br>I'm a Software Engineer.<br><br>
 <br>
 
 <div align="center">
-<code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
-<code><img height="40" src="https://i0.wp.com/www.mooict.com/wp-content/uploads/2018/06/wpf-c-sharp-tutorial-thumbnail.jpg?fit=300%2C300&ssl=1"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+⚙️ Tech stacks:
+</div><br>
+
+
+<div align="center">
+<code><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/X/xamarin-logo-F85620A85D-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://i0.wp.com/www.mooict.com/wp-content/uploads/2018/06/wpf-c-sharp-tutorial-thumbnail.jpg?fit=300%2C300&ssl=1"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"></code>
+</div><br>
+<div align="center">
+<code><img height="40" width="40" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png"></code>
 </div>
 
   
